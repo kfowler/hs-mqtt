@@ -1,0 +1,4 @@
+machine:
+  ghc:
+    version: 7.8.3
+    
